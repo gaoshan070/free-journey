@@ -1,0 +1,240 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-24 05:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/post-types.php:28
+msgid "Mega Builder"
+msgstr ""
+
+#: includes/post-types.php:29
+msgid "Mega menu item"
+msgstr ""
+
+#: includes/post-types.php:30
+msgid "Add new"
+msgstr ""
+
+#: includes/post-types.php:31
+msgid "Add new menu item"
+msgstr ""
+
+#: includes/post-types.php:32
+msgid "Edit menu item"
+msgstr ""
+
+#: includes/post-types.php:33
+msgid "New menu item"
+msgstr ""
+
+#: includes/post-types.php:34
+msgid "View menu item"
+msgstr ""
+
+#: includes/post-types.php:35
+msgid "Search menu items"
+msgstr ""
+
+#: includes/post-types.php:36
+msgid "No menu items found"
+msgstr ""
+
+#: includes/post-types.php:37
+msgid "No menu items found in trash"
+msgstr ""
+
+#: includes/post-types.php:38
+msgid "Parent menu item:"
+msgstr ""
+
+#: includes/post-types.php:39
+msgid "Menu Builder"
+msgstr ""
+
+#: includes/post-types.php:42
+msgid "Mega Menus."
+msgstr ""
+
+#: includes/post-types.php:63 includes/post-types.php:64
+msgid "Footers"
+msgstr ""
+
+#: includes/post-types.php:65 includes/post-types.php:99
+msgid "Add New"
+msgstr ""
+
+#: includes/post-types.php:66
+msgid "Add new footer"
+msgstr ""
+
+#: includes/post-types.php:67
+msgid "Edit footer"
+msgstr ""
+
+#: includes/post-types.php:68
+msgid "New footer"
+msgstr ""
+
+#: includes/post-types.php:69
+msgid "View footer"
+msgstr ""
+
+#: includes/post-types.php:70
+msgid "Search template footer"
+msgstr ""
+
+#: includes/post-types.php:71
+msgid "No template items found"
+msgstr ""
+
+#: includes/post-types.php:72
+msgid "No template items found in trash"
+msgstr ""
+
+#: includes/post-types.php:73
+msgid "Parent template item:"
+msgstr ""
+
+#: includes/post-types.php:74
+msgid "Footer Builder"
+msgstr ""
+
+#: includes/post-types.php:77
+msgid "To Build Template Footer."
+msgstr ""
+
+#: includes/post-types.php:100 includes/post-types.php:109
+msgid "Testimonials"
+msgstr ""
+
+#: includes/post-types.php:101
+msgid "Add New Testimonial"
+msgstr ""
+
+#: includes/post-types.php:102
+msgid "Edit Testimonial"
+msgstr ""
+
+#: includes/post-types.php:103
+msgid "New Testimonial"
+msgstr ""
+
+#: includes/post-types.php:104
+msgid "View Testimonial"
+msgstr ""
+
+#: includes/post-types.php:105
+msgid "Search Testimonial"
+msgstr ""
+
+#: includes/post-types.php:106
+msgid "No Testimonial found"
+msgstr ""
+
+#: includes/post-types.php:107
+msgid "No Testimonial found in Trash"
+msgstr ""
+
+#: includes/post-types.php:108
+msgid "Parent Testimonial"
+msgstr ""
+
+#: includes/widgets/widget-products.php:58 includes/shortcodes/products.php:173
+msgid "More items"
+msgstr ""
+
+#: includes/widgets/widget-products.php:63 includes/shortcodes/products.php:179
+msgid "No Product"
+msgstr ""
+
+#: includes/shortcodes/categories.php:104
+msgid "SHOP NOW"
+msgstr ""
+
+#: includes/classes/mailchimp/mailchimp-settings.php:28
+msgid "MailChimp Settings"
+msgstr ""
+
+#: includes/classes/mailchimp/mailchimp-settings.php:28
+msgid "MailChimp"
+msgstr ""
+
+#: includes/classes/mailchimp/mailchimp-settings.php:38
+msgid "Mail Chimp Settings"
+msgstr ""
+
+#. ID
+#: includes/classes/mailchimp/mailchimp-settings.php:64
+msgid "Settings"
+msgstr ""
+
+#. ID
+#: includes/classes/mailchimp/mailchimp-settings.php:71
+msgid "Mail Chimp API Key"
+msgstr ""
+
+#. ID
+#: includes/classes/mailchimp/mailchimp-settings.php:82
+msgid "Email Lists"
+msgstr ""
+
+#. ID
+#: includes/classes/mailchimp/mailchimp-settings.php:90
+msgid "Success message"
+msgstr ""
+
+#: includes/classes/mailchimp/mailchimp-settings.php:136
+msgid ""
+"Enter your mail Chimp API key to enable a newsletter signup option with the "
+"registration form."
+msgstr ""
+
+#: includes/classes/mailchimp/mailchimp-settings.php:138
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"__blank\">Click here to get your Mailchimp API "
+"key</a>"
+msgstr ""
+
+#: includes/classes/mailchimp/mailchimp.php:28
+#, php-format
+msgid "Please enter Mail Chimp API Key in <a href=\"%s\">here</a>"
+msgstr ""
+
+#: includes/classes/mailchimp/mailchimp.php:56
+msgid "Your email added..."
+msgstr ""
+
+#: includes/classes/mailchimp/mailchimp.php:69
+msgid "Failed"
+msgstr ""
+
+#. Name of the plugin
+msgid "FastShop Toolkit"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"FastShop toolkit for FastShop theme. Currently supports the following theme "
+"functionality: shortcodes, CPT."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://kutethemes.net"
+msgstr ""
+
+#. Author of the plugin
+msgid "Kutethemes Team"
+msgstr ""

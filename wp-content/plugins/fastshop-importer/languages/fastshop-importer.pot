@@ -1,0 +1,131 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-24 05:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: fastshop-importer.php:29
+msgid "Primary Menu"
+msgstr ""
+
+#: fastshop-importer.php:30
+msgid "Vertical Menu"
+msgstr ""
+
+#: fastshop-importer.php:31
+msgid "Top Right Menu"
+msgstr ""
+
+#: fastshop-importer.php:42
+msgid "Demo 01"
+msgstr ""
+
+#: fastshop-importer.php:54
+msgid "Demo 02"
+msgstr ""
+
+#: fastshop-importer.php:66
+msgid "Demo 03"
+msgstr ""
+
+#: fastshop-importer.php:78
+msgid "Demo 04"
+msgstr ""
+
+#: fastshop-importer.php:90
+msgid "Demo 05"
+msgstr ""
+
+#: fastshop-importer.php:102
+msgid "Demo 06"
+msgstr ""
+
+#: fastshop-importer.php:114
+msgid "Demo 07"
+msgstr ""
+
+#: fastshop-importer.php:126
+msgid "Demo 08"
+msgstr ""
+
+#: fastshop-importer.php:138
+msgid "Demo 09"
+msgstr ""
+
+#: fastshop-importer.php:150
+msgid "Demo 10"
+msgstr ""
+
+#: fastshop-importer.php:162
+msgid "Demo 11"
+msgstr ""
+
+#: fastshop-importer.php:174
+msgid "Demo 12"
+msgstr ""
+
+#: fastshop-importer.php:186
+msgid "Demo 13"
+msgstr ""
+
+#: fastshop-importer.php:198
+msgid "Demo 14"
+msgstr ""
+
+#: fastshop-importer.php:210
+msgid "Demo 15"
+msgstr ""
+
+#: fastshop-importer.php:222
+msgid "Demo 16"
+msgstr ""
+
+#: fastshop-importer.php:234
+msgid "Demo 17"
+msgstr ""
+
+#: fastshop-importer.php:246
+msgid "Demo 18"
+msgstr ""
+
+#: fastshop-importer.php:258
+msgid "Demo 19"
+msgstr ""
+
+#: fastshop-importer.php:270
+msgid "Demo 20"
+msgstr ""
+
+#: fastshop-importer.php:282
+msgid "Demo 21"
+msgstr ""
+
+#: fastshop-importer.php:294
+msgid "Demo 22"
+msgstr ""
+
+#: fastshop-importer.php:306
+msgid "Demo 23"
+msgstr ""
+
+#. Name of the plugin
+msgid "FastShop Importer"
+msgstr ""
+
+#. Description of the plugin
+msgid "Import FastShop theme demo data"
+msgstr ""
+
+#. Author of the plugin
+msgid "Kute Themes"
+msgstr ""
