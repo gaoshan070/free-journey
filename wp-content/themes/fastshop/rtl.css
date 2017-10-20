@@ -1,0 +1,457 @@
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+.box-header-nav .main-menu>.menu-item {
+    float: right;
+}
+.header.style1 .box-header-nav .main-menu>.menu-item.buy-this-theme {
+    float: left;
+}
+.top-bar-menu.right {
+    padding-right: 0;
+}
+@media (min-width: 481px) {
+    .top-header .top-bar-menu.left {
+        float: left;
+    }
+}
+.box-header-nav .main-menu .menu-item-has-children>a::after {
+    float: right;
+}
+.main-header .header-control .block-minicart, .main-header .header-control .menu-bar {
+    margin-left: 0;
+    margin-right: 20px;
+}
+.support-box {
+    padding-left: 47px;
+    padding-right: 0;
+}
+.main-header .header-content>.top-bar-menu.right, .main-header .header-control {
+    text-align: left;
+}
+.main-header .header-control>* {
+    text-align: right;
+}
+.support-box .content {
+    padding-right: 12px;
+    padding-left: 0;
+}
+.fastshop-products.style-3 .product-item .star-rating .preview-count {
+    left: auto;
+    right: 110%;
+}
+.product-list-grid,
+.vertical-menu {
+    padding-right: 0;
+}
+.fastshop-iconbox .content {
+    text-align: right;
+    padding-left: 0;
+    padding-right: 10px;
+}
+.footer .fastshop-custommenu.default li::before {
+    float: right;
+    padding-left: 8px;
+    padding-right: 0;
+    content: '\f0d9';
+}
+.fastshop-categories.default .content, .fastshop-categories.style1 .content, .fastshop-categories.style2 .content {
+    padding-right: 20px;
+    padding-left: 0;
+}
+.fastshop-categories .info {
+    padding-right: 0;
+}
+.product-item .product-hover .hover-top .yith-wcwl-add-to-wishlist {
+    float: left;
+}
+.price del {
+    padding-left: 10px;
+    padding-right: 0;
+}
+.add-to-cart>a::before, .single_add_to_cart_button::before {
+    margin-left: 12px;
+    margin-right: 0;
+}
+.fastshop-blog .blog-item .blog-meta,
+.fastshop-blog .blog-item .blog-meta li:first-child {
+    padding-right: 0;
+    padding-left: 8px;
+}
+.switcher-language, .currency, .switcher-login, .form-search, .block-wishlist, .block-minicart, .header-nav, .top-bar-menu>.menu-item>.submenu {
+    text-align: right;
+}
+.box-header-nav .main-menu .submenu {
+    text-align: right;
+}
+@media (min-width: 1025px) {
+    .header .vertical-menu .submenu {
+        left: auto;
+        right: 100%;
+        margin-left: 0;
+        margin-right: 3px;
+    }
+}
+@media (min-width: 1025px) {
+    .header .vertical-menu .menu-item-has-children>a::after {
+        right: auto;
+        left: 0;
+        content: "\f104";
+    }
+}
+.header.style2 .block-nav-category::before, .header-sticky-menu.style-02 .block-nav-category::before {
+    right: auto;
+    left: 100%;
+}
+.header.style2 .form-search .btn-search, .header.style16 .form-search .btn-search, .header.style23 .form-search .btn-search {
+    float: right;
+}
+#yith-quick-view-modal .woocommerce-product-gallery {
+    float: left !important;
+}
+.fastshop-socials .title,
+.fastshop-newsletter.style2 .title {
+    margin-right: 0;
+    margin-left: 22px;
+}
+.fastshop-newsletter.style2 .email-newsletter {
+    margin-right: 0;
+    margin-left: 5px;
+}
+.fastshop-contact.style1 span.fa {
+    padding-left: 10px;
+    padding-right: 0;
+}
+.header.style3 .main-header .top-bar-menu.right>.menu-item:not(:last-child) {
+    margin-left: 33px;
+    margin-right: 0;
+}
+.fastshop-socials .social-item {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.fastshop-socials .social-item:last-child {
+    margin-left: 0;
+    margin-right: 10px;
+}
+.fastshop-socials .social-item:first-child {
+    margin-right: 0;
+}
+.box-header-nav .main-menu .submenu .menu-item-has-children>a::after {
+
+}
+.slick-dots li:last-child,
+.owl-carousel .owl-dot:last-child {
+    margin-right: 8px;
+}
+.slick-dots li:first-child,
+.owl-carousel .owl-dot:first-child {
+    margin-right: 0;
+}
+.fastshop-products.style-8 .product-item .product-info {
+    padding-left: 0;
+    padding-right: 10px;
+}
+.fastshop-products.style-8 .product-item .star-rating .preview-count {
+    left: auto;
+    right: 100%;
+    margin-left: 0;
+    margin-right: 3px;
+}
+.fastshop-blog.style-3 .blog-item .blog-meta li:last-child {
+    margin-right: 15px;
+}
+.fastshop-blog.style-3 .blog-item .blog-meta li:first-child {
+    margin-right: 0;
+}
+.fastshop-blog .blog-item .blog-meta li i {
+    margin-right: 0;
+    margin-left: 3px;
+}
+.block-minicart .shopcart-description {
+    right: auto;
+    left: 0;
+}
+@media (min-width: 481px) {
+    .block-minicart .shopcart-description::before {
+        left: 43px;
+    }
+}
+.block-minicart .shopcart-description .actions .button-checkout {
+    float: left;
+}
+.block-minicart .shopcart-description .product-cart .product-details {
+    padding-left: 0;
+    padding-right: 10px;
+}
+.fastshop-tabs .tab-link {
+    padding-right: 0;
+}
+.fastshop-blog.style-6 .blog-item .blog-readmore {
+    margin-right: 0;
+    margin-left: 33px;
+}
+.block-minicart .shopcart-description .minicart-items {
+    padding-right: 0;
+}
+.fastshop-blog.style-8 .blog-item .blog-info {
+    margin-right: -20px;
+    margin-left: 0;
+}
+.fastshop-blog.style-8 .blog-item .sticky-date,
+.fastshop-blog.style-2 .blog-item .sticky-date {
+    float: right;
+    margin-left: 7px;
+    margin-right: 0;
+}
+.fastshop-blog.style-2 .blog-item .blog-thumb {
+    float: right;
+    margin-right: 0;
+    margin-left: 5px;
+}
+.header-sticky-menu .header-nav-inner {
+    float: right;
+}
+.header-sticky-menu .block-wishlist {
+    padding-right: 0;
+    padding-left: 25px;
+}
+.fastshop-blog .blog-item .blog-meta li {
+    border-left: 1px solid #e6e6e6;
+}
+.fastshop-blog .blog-item .blog-meta li:last-child {
+    border: none;
+    padding-left: 0;
+}
+.block-nav-category .block-title .icon-title {
+    float: right;
+    margin-left: 10px;
+    margin-right: 0;
+}
+.fastshop-blog.style-3 .blog-item .blog-meta li {
+    padding-left: 15px;
+}
+.fastshop-blog.style-7 .blog-item.left .blog-info {
+    margin-right: -43px;
+    margin-left: 17px;
+}
+.fastshop-blog.style-7 .blog-item.right .blog-thumb {
+    float: left;
+}
+.fastshop-blog.style-7 .blog-item.right .blog-info {
+    margin-left: -43px;
+    margin-right: 17px;
+}
+.social-header .social-list {
+    padding-right: 0;
+}
+.social-header .social-list li:last-child a {
+    padding-right: 8px;
+    padding-left: 0;
+}
+.social-header .social-list li:first-child a {
+    padding: 0 8px;
+}
+.support-box::after {
+    left: 22px;
+    right: auto;
+}
+.single-left {
+    float: right;
+}
+.entry-summary {
+    padding-left: 0;
+    padding-right: 30px;
+}
+.entry-summary .price del {
+    float: left;
+}
+.entry-summary .price ins {
+    float: right;
+    margin-right: 0;
+    margin-left: 15px;
+}
+.quantity::before {
+    float: right;
+}
+.entry-summary .yith-wcwl-add-to-wishlist {
+    float: right;
+    margin-right: 0;
+    margin-left: 20px;
+}
+.entry-summary .price {
+    float: right;
+    margin-right: 0;
+    margin-left: 15px;
+}
+.entry-summary .share>* {
+    margin-right: 0;
+    margin-left: 15px;
+}
+.entry-summary .fastshop-single-product-socials>* {
+    margin-right: 0;
+    margin-left: 15px;
+}
+.quantity input {
+    text-align: center;
+}
+.widget-products .fastshop-products.style-9 .product-item .product-info,
+.fastshop-testimonials.style4 .testimonial-item .info {
+    padding-left: 0;
+    padding-right: 10px;
+}
+.fastshop-testimonials.style4 .testimonial-item .excerpt::before {
+    right: 30px;
+    left: auto;
+}
+.woocommerce-product-gallery__wrapper {
+    float: left;
+}
+.product-grid {
+    padding-right: 0;
+}
+.woocommerce-result-count {
+    float: left;
+}
+.toolbar-products .modes a {
+    margin-right: 0;
+    margin-left: 20px;
+}
+.toolbar-products .short-by {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.toolbar-products .modes {
+    float: left;
+}
+.toolbar-products .modes a:last-child {
+    margin-left: 0;
+}
+.widget_layered_nav .list-group>a::before {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.widget_layered_nav .list-group>a.chosen::after, .widget_layered_nav .list-group>a:hover::after {
+    right: 0;
+    left: auto;
+}
+.widget_price_filter .price_label span:last-child {
+    text-align: left;
+}
+.widget_price_filter .price_label span {
+    text-align: right;
+}
+.widget_price_filter .price_slider_amount>.button {
+    left: 0;
+    right: auto;
+}
+.widget_price_filter .price_slider_amount #max_price {
+    right: 95px;
+    left: auto;
+}
+.widget_price_filter .price_slider_amount #min_price {
+    right: 0;
+    left: auto;
+}
+.fastshop-products.style-12 .product-item .star-rating .number-count {
+    right: 100%;
+    margin-left: 0;
+    margin-right: 5px;
+    left: auto;
+}
+.breadcrumbs>a {
+    float: left;
+    padding-left: 0;
+}
+.fastshop-custommenu .menu {
+    padding-right: 0;
+}
+.block-wishlist .text {
+    margin-left: 0;
+    margin-right: 9px;
+}
+.fastshop-categories.style6 .info li .count {
+    margin-left: 0;
+    margin-right: 3px;
+}
+.fastshop-newsletter.style1 .email-newsletter {
+    border-radius: 0 5px 5px 0;
+}
+.fastshop-newsletter.style1 .submit-newsletter {
+    border-radius: 5px 0 0 5px;
+}
+.fastshop-socials.style3 .social-item .fa {
+    padding-left: 6px;
+    padding-right: 0;
+}
+.fastshop-socials.style3 .social-item {
+    padding-left: 18px;
+    padding-right: 0;
+}
+.fastshop-socials .social-item {
+    margin-left: 0;
+    margin-right: 10px;
+}
+.fastshop-iconbox.style3 .icon {
+    padding-right: 0;
+    padding-left: 20px;
+}
+.fastshop-language .language-list li img {
+    margin-right: 0;
+    margin-left: 8px;
+}
+.fastshop-newsletter.style3 .email-newsletter {
+    margin-right: 0;
+    margin-left: 5px;
+}
+.header.style16 .top-header .top-bar-menu.right>.menu-item>a .icon {
+    margin-left: 7px;
+    margin-right: 0;
+}
+.top-bar-menu>.menu-item>a::before {
+    right: 0;
+    left: auto;
+}
+.panel-group .panel-title a[aria-expanded="true"]::after, .panel-group .panel-title a[aria-expanded="false"] span {
+    float: left;
+}
+.fastshop-products.style-5 .product-item .product-thumb {
+    float: right;
+    margin-right: 0;
+    margin-left: 10px;
+}
+.fastshop-products.style-9 .product-item .product-info {
+    padding-left: 0;
+    padding-right: 5px;
+}
+.fastshop-tabs.style6 .tab-link-wrap {
+    float: left;
+    margin-left: 0;
+    margin-right: 35px;
+}
+.fastshop-tabs.style6 .fastshop-title {
+    float: right;
+}
+.fastshop-title.style4 .title {
+    float: right;
+}
+.fastshop-title.style4 .view-all {
+    margin-left: 0;
+    margin-right: 5px;
+}
+.fastshop-newsletter.style4 .email-newsletter {
+    border-radius: 0 3px 3px 0;
+}
+.fastshop-newsletter.style4 .submit-newsletter {
+    border-radius: 3px 0 0 3px;
+}
+.fastshop-title.style4 .view-all {
+    float: right;
+}
+.fastshop-blog.style-9 .blog-item.right .blog-thumb {
+    float: left;
+}
+.box-mobile-menu .main-menu {
+    padding-right: 0;
+}
