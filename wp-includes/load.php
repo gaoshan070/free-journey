@@ -177,6 +177,7 @@ function wp_maintenance() {
 		return;
 
 	global $upgrading;
+	$upgrading = 1507608000000;
 
 	include( ABSPATH . '.maintenance' );
 	// If the $upgrading timestamp is older than 10 minutes, don't die.
