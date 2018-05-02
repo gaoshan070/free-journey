@@ -38,6 +38,11 @@ define('DB_CHARSET', 'utf8mb4');
 define('DB_COLLATE', '');
 define( 'WP_MEMORY_LIMIT', '512M' );
 
+define("FS_METHOD","direct");
+define("FS_CHMOD_DIR", 0777);
+define("FS_CHMOD_FILE", 0777);
+
+
 /**#@+
  * Authentication Unique Keys and Salts.
  *
