@@ -1,0 +1,279 @@
+10-24-2017 @ 05:33:41 - START XERO NEW INVOICE. order_id=10652
+10-24-2017 @ 05:33:42 - XERO ERROR RESPONSE:
+<ApiException xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ErrorNumber>10</ErrorNumber>
+  <Type>ValidationException</Type>
+  <Message>A validation exception occurred</Message>
+  <Elements>
+    <DataContractBase xsi:type="Invoice">
+      <ValidationErrors>
+        <ValidationError>
+          <Message>Item code '131237' is not valid</Message>
+        </ValidationError>
+      </ValidationErrors>
+      <Contact>
+        <ContactID>00000000-0000-0000-0000-000000000000</ContactID>
+        <Name>Shan Gao</Name>
+        <FirstName>Shan</FirstName>
+        <LastName>Gao</LastName>
+        <EmailAddress>gaoshan070@gmail.com</EmailAddress>
+        <Addresses>
+          <Address>
+            <AddressType>POBOX</AddressType>
+            <AddressLine1>One tree hill</AddressLine1>
+            <City>auckland</City>
+            <Region>AK</Region>
+            <PostalCode>1010</PostalCode>
+            <Country>NZ</Country>
+          </Address>
+        </Addresses>
+        <Phones>
+          <Phone>
+            <PhoneType>DEFAULT</PhoneType>
+            <PhoneNumber>02108191924</PhoneNumber>
+          </Phone>
+        </Phones>
+      </Contact>
+      <Date>2017-10-24T00:00:00</Date>
+      <DueDate>2017-10-24T00:00:00</DueDate>
+      <Status>AUTHORISED</Status>
+      <LineAmountTypes>Exclusive</LineAmountTypes>
+      <LineItems>
+        <LineItem>
+          <ItemCode>131237</ItemCode>
+          <Description>45HD of Memory And More TV JAV</Description>
+          <UnitAmount>70.0000</UnitAmount>
+          <TaxType>NONE</TaxType>
+          <TaxAmount>0.00</TaxAmount>
+          <LineAmount>70.00</LineAmount>
+          <AccountCode>400</AccountCode>
+          <Quantity>1.0000</Quantity>
+        </LineItem>
+      </LineItems>
+      <SubTotal>70.00</SubTotal>
+      <TotalTax>0.00</TotalTax>
+      <Total>70.00</Total>
+      <CurrencyCode>NZD</CurrencyCode>
+      <Type>ACCREC</Type>
+      <InvoiceID>00000000-0000-0000-0000-000000000000</InvoiceID>
+      <InvoiceNumber>w_10652</InvoiceNumber>
+    </DataContractBase>
+  </Elements>
+</ApiException>
+10-24-2017 @ 05:33:42 - END XERO NEW INVOICE
+10-24-2017 @ 05:42:25 - START XERO NEW INVOICE. order_id=10650
+10-24-2017 @ 05:42:26 - XERO ERROR RESPONSE:
+<ApiException xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ErrorNumber>10</ErrorNumber>
+  <Type>ValidationException</Type>
+  <Message>A validation exception occurred</Message>
+  <Elements>
+    <DataContractBase xsi:type="Invoice">
+      <ValidationErrors>
+        <ValidationError>
+          <Message>Item code '101' is not valid</Message>
+        </ValidationError>
+      </ValidationErrors>
+      <Contact>
+        <ContactID>00000000-0000-0000-0000-000000000000</ContactID>
+        <Name>Shan Gao</Name>
+        <FirstName>Shan</FirstName>
+        <LastName>Gao</LastName>
+        <EmailAddress>gaoshan070@gmail.com</EmailAddress>
+        <Addresses>
+          <Address>
+            <AddressType>POBOX</AddressType>
+            <AddressLine1>One tree hill</AddressLine1>
+            <City>auckland</City>
+            <Region>AK</Region>
+            <PostalCode>1010</PostalCode>
+            <Country>NZ</Country>
+          </Address>
+        </Addresses>
+        <Phones>
+          <Phone>
+            <PhoneType>DEFAULT</PhoneType>
+            <PhoneNumber>02108191924</PhoneNumber>
+          </Phone>
+        </Phones>
+      </Contact>
+      <Date>2017-10-24T00:00:00</Date>
+      <DueDate>2017-10-24T00:00:00</DueDate>
+      <Status>AUTHORISED</Status>
+      <LineAmountTypes>Exclusive</LineAmountTypes>
+      <LineItems>
+        <LineItem>
+          <ItemCode>101</ItemCode>
+          <Description>Famini Tree: A Novel Hardcover</Description>
+          <UnitAmount>75.0000</UnitAmount>
+          <TaxType>NONE</TaxType>
+          <TaxAmount>0.00</TaxAmount>
+          <LineAmount>75.00</LineAmount>
+          <AccountCode>400</AccountCode>
+          <Quantity>1.0000</Quantity>
+        </LineItem>
+      </LineItems>
+      <SubTotal>75.00</SubTotal>
+      <TotalTax>0.00</TotalTax>
+      <Total>75.00</Total>
+      <CurrencyCode>NZD</CurrencyCode>
+      <Type>ACCREC</Type>
+      <InvoiceID>00000000-0000-0000-0000-000000000000</InvoiceID>
+      <InvoiceNumber>w_10650</InvoiceNumber>
+    </DataContractBase>
+  </Elements>
+</ApiException>
+10-24-2017 @ 05:42:26 - END XERO NEW INVOICE
+12-18-2017 @ 05:19:44 - START XERO NEW INVOICE. order_id=10655
+12-18-2017 @ 05:19:45 - XERO ERROR RESPONSE:
+<ApiException xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ErrorNumber>10</ErrorNumber>
+  <Type>ValidationException</Type>
+  <Message>A validation exception occurred</Message>
+  <Elements>
+    <DataContractBase xsi:type="Invoice">
+      <ValidationErrors>
+        <ValidationError>
+          <Message>Item code '7111' is not valid</Message>
+        </ValidationError>
+      </ValidationErrors>
+      <Contact>
+        <ContactID>00000000-0000-0000-0000-000000000000</ContactID>
+        <Name>Shan Gao</Name>
+        <FirstName>Shan</FirstName>
+        <LastName>Gao</LastName>
+        <EmailAddress>gaoshan070@gmail.com</EmailAddress>
+        <Addresses>
+          <Address>
+            <AddressType>POBOX</AddressType>
+            <AddressLine1>One tree hill</AddressLine1>
+            <City>auckland</City>
+            <Region>AK</Region>
+            <PostalCode>1010</PostalCode>
+            <Country>NZ</Country>
+          </Address>
+        </Addresses>
+        <Phones>
+          <Phone>
+            <PhoneType>DEFAULT</PhoneType>
+            <PhoneNumber>02108191924</PhoneNumber>
+          </Phone>
+        </Phones>
+      </Contact>
+      <Date>2017-12-18T00:00:00</Date>
+      <DueDate>2017-12-18T00:00:00</DueDate>
+      <Status>AUTHORISED</Status>
+      <LineAmountTypes>Exclusive</LineAmountTypes>
+      <LineItems>
+        <LineItem>
+          <ItemCode>7111</ItemCode>
+          <Description>9027Q UPH Louis XVI Bed</Description>
+          <UnitAmount>75.0000</UnitAmount>
+          <TaxType>NONE</TaxType>
+          <TaxAmount>0.00</TaxAmount>
+          <LineAmount>75.00</LineAmount>
+          <AccountCode>400</AccountCode>
+          <Quantity>1.0000</Quantity>
+        </LineItem>
+      </LineItems>
+      <SubTotal>75.00</SubTotal>
+      <TotalTax>0.00</TotalTax>
+      <Total>75.00</Total>
+      <CurrencyCode>NZD</CurrencyCode>
+      <Type>ACCREC</Type>
+      <InvoiceID>00000000-0000-0000-0000-000000000000</InvoiceID>
+      <InvoiceNumber>w_10655</InvoiceNumber>
+    </DataContractBase>
+  </Elements>
+</ApiException>
+12-18-2017 @ 05:19:45 - END XERO NEW INVOICE
+12-18-2017 @ 05:23:11 - START XERO NEW INVOICE. order_id=10656
+12-18-2017 @ 05:23:16 - XERO RESPONSE:
+<Response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Id>c10fd3f6-a678-4c7b-8280-c84040807af9</Id>
+  <Status>OK</Status>
+  <ProviderName>paclabel</ProviderName>
+  <DateTimeUTC>2017-12-18T05:23:16.1766778Z</DateTimeUTC>
+  <Invoices>
+    <Invoice>
+      <Contact>
+        <ContactID>e5974094-9379-43c0-961e-aaae665bb0a5</ContactID>
+        <ContactStatus>ACTIVE</ContactStatus>
+        <Name>Shan Gao</Name>
+        <FirstName>Shan</FirstName>
+        <LastName>Gao</LastName>
+        <EmailAddress>gaoshan070@gmail.com</EmailAddress>
+        <Addresses>
+          <Address>
+            <AddressType>STREET</AddressType>
+          </Address>
+          <Address>
+            <AddressType>POBOX</AddressType>
+            <AddressLine1>One tree hill</AddressLine1>
+            <City>auckland</City>
+            <Region>AK</Region>
+            <PostalCode>1010</PostalCode>
+            <Country>NZ</Country>
+          </Address>
+        </Addresses>
+        <Phones>
+          <Phone>
+            <PhoneType>DEFAULT</PhoneType>
+            <PhoneNumber>02108191924</PhoneNumber>
+          </Phone>
+          <Phone>
+            <PhoneType>DDI</PhoneType>
+          </Phone>
+          <Phone>
+            <PhoneType>FAX</PhoneType>
+          </Phone>
+          <Phone>
+            <PhoneType>MOBILE</PhoneType>
+          </Phone>
+        </Phones>
+        <UpdatedDateUTC>2017-12-18T05:23:15.95</UpdatedDateUTC>
+        <IsSupplier>false</IsSupplier>
+        <IsCustomer>true</IsCustomer>
+      </Contact>
+      <Date>2017-12-18T00:00:00</Date>
+      <DueDate>2017-12-18T00:00:00</DueDate>
+      <Status>AUTHORISED</Status>
+      <LineAmountTypes>Exclusive</LineAmountTypes>
+      <LineItems>
+        <LineItem>
+          <Description>New demo</Description>
+          <UnitAmount>6.0000</UnitAmount>
+          <TaxType>NONE</TaxType>
+          <TaxAmount>0.00</TaxAmount>
+          <LineAmount>12.00</LineAmount>
+          <AccountCode>400</AccountCode>
+          <Quantity>2.0000</Quantity>
+          <LineItemID>09a305c2-2445-48d2-be4a-181dca6ea50c</LineItemID>
+        </LineItem>
+        <LineItem>
+          <Description>New demo</Description>
+          <UnitAmount>6.0000</UnitAmount>
+          <TaxType>NONE</TaxType>
+          <TaxAmount>0.00</TaxAmount>
+          <LineAmount>18.00</LineAmount>
+          <AccountCode>400</AccountCode>
+          <Quantity>3.0000</Quantity>
+          <LineItemID>08c3a921-761d-41d0-8341-c5a3739514eb</LineItemID>
+        </LineItem>
+      </LineItems>
+      <SubTotal>30.00</SubTotal>
+      <TotalTax>0.00</TotalTax>
+      <Total>30.00</Total>
+      <UpdatedDateUTC>2017-12-18T05:23:16.103</UpdatedDateUTC>
+      <CurrencyCode>NZD</CurrencyCode>
+      <Type>ACCREC</Type>
+      <InvoiceID>c425f8f2-060f-4a2a-ac93-1cbb4137e698</InvoiceID>
+      <InvoiceNumber>w_10656</InvoiceNumber>
+      <AmountDue>30.00</AmountDue>
+      <AmountPaid>0.00</AmountPaid>
+      <SentToContact>false</SentToContact>
+      <CurrencyRate>1.000000</CurrencyRate>
+    </Invoice>
+  </Invoices>
+</Response>
+12-18-2017 @ 05:23:16 - END XERO NEW INVOICE
