@@ -4,6 +4,7 @@
      Slug: content-product-style-7
 */
 ?>
+
 <div class="product-inner">
 	<?php
 	/**
@@ -51,8 +52,9 @@
 	<div class="product-hover">
 		<div class="hover-top">
 			<?php
-			do_action('fastshop_function_shop_loop_item_compare');
-			do_action('fastshop_function_shop_loop_item_wishlist');
+//			do_action('fastshop_function_shop_loop_item_compare');
+//			do_action('fastshop_function_shop_loop_item_wishlist');
+            do_action('fastshop_product_list_hover');
 			?>
 		</div>
         <div class="add-to-cart">
@@ -67,4 +69,5 @@
             ?>
         </div>
 	</div>
+
 </div>
