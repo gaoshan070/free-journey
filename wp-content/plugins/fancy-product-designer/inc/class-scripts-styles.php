@@ -28,7 +28,7 @@ if(!class_exists('FPD_Scripts_Styles')) {
 			}
 
 			$fpd_css_url = $local_test ? 'http://radykal.dev/fpd/dist/css/FancyProductDesigner.css?'.$timestamp : plugins_url('/assets/css/FancyProductDesigner-all.min.css', FPD_PLUGIN_ROOT_PHP);
-			$fpd_js_url = $local_test ? 'http://radykal.dev/fpd/dist/js/FancyProductDesigner.js?'.$timestamp : plugins_url('/assets/js/FancyProductDesigner-all.min.js', FPD_PLUGIN_ROOT_PHP);
+			$fpd_js_url = $local_test ? 'http://radykal.dev/fpd/dist/js/FancyProductDesigner.js?'.$timestamp : plugins_url('/assets/js/FancyProductDesigner-all.js', FPD_PLUGIN_ROOT_PHP);
 			$fpd_js_plugins_url = $local_test ? 'http://radykal.dev/fpd/dist/js/plugins.js' : plugins_url('/assets/js/plugins.js', FPD_PLUGIN_ROOT_PHP);
 			$fpd_js_url = fpd_get_option('fpd_debug_mode') ?  plugins_url('/assets/js/FancyProductDesigner.js', FPD_PLUGIN_ROOT_PHP) : $fpd_js_url;
 

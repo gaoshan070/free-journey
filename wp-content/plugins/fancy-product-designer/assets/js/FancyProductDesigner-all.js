@@ -9379,11 +9379,16 @@ var FancyProductDesigner = function(elem, opts) {
 			$elem.removeClass('fpd-hidden');
 			$body.addClass('fpd-modal-mode-active');
 
-			var $modalProductDesigner = $elem.wrap('<div class="fpd-modal-product-designer fpd-modal-overlay fpd-fullscreen"><div class="fpd-modal-wrapper"></div></div>').parents('.fpd-modal-overlay:first'),
+			var $modalProductDesigner = $elem.wrap('<div class="aaa fpd-modal-product-designer fpd-modal-overlay fpd-fullscreen"><div class="fpd-modal-wrapper"></div></div>').parents('.fpd-modal-overlay:first'),
 				modalProductDesignerOnceOpened = false;
 
+
 			$modalProductDesigner.children()
-			.append('<div class="fpd-done fpd-btn" data-defaulttext="Done">misc.modal_done</div><div class="fpd-modal-close"><span class="fpd-icon-close"></span></div>');
+                // .append('<div class="fpd-done fpd-btn" data-defaulttext="Done">misc.modal_done</div><div class="fpd-modal-close"><span class="fpd-icon-close"></span></div>');
+			.append('<div class="fpd-done fpd-btn" data-defaulttext="Done">misc.modal_done</div><div class="fpd-modal-close"><span class="fpd-icon-close"></span></div>' +
+                '<div class="clearfix"></div><div id="done_btn"><div id="sample_title">' +
+                '<h5>Sample Title</h5><ul id="sample_ul"><li>Sample 1</li><li>Sample 2</li><li>Sample 3</li></ul></div></div>');
+
 
 			$(options.modalMode).addClass('fpd-modal-mode-btn').click(function(evt) {
 
@@ -11895,7 +11900,6 @@ var FancyProductDesigner = function(elem, opts) {
 			else {
 				label = $tag.data('defaulttext');
 			}
-
 			//store all translatable labels in json
 			var sectionObj = instance.languageJSON[keys[0]];
 			sectionObj[keys[1]] = label;

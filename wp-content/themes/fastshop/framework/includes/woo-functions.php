@@ -82,6 +82,8 @@ add_action( 'woocommerce_after_shop_loop_item_title', 'woocommerce_template_loop
 /* Add categories to product */
 add_action( 'fastshop_add_categories_product', 'fastshop_add_categories_product', 1 );
 
+
+add_action('fastshop_product_list_hover','fastshop_product_list_hover',1);
 /* ==================== HOOK PRODUCT ==================== */
 
 /* WC_Vendors */
@@ -521,6 +523,17 @@ if ( class_exists( 'YITH_Woocompare' ) && get_option( 'yith_woocompare_compare_b
 	}
 }
 
+//TODO
+if (!function_exists('fastshop_product_list_hover')) {
+    function fastshop_product_list_hover()
+    {
+        ?>
+            <p><?php the_excerpt() ?></p>
+        <?php
+
+
+    }
+}
 /* GROUP NEW FLASH */
 
 if ( !function_exists( 'fastshop_group_flash' ) ) {
