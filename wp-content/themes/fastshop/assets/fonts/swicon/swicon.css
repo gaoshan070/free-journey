@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'fastturnaround';
+  src:  url('./fastturnaround.eot?z9ca6k');
+  src:  url('./fastturnaround.eot?z9ca6k#iefix') format('embedded-opentype'),
+    url('./fastturnaround.ttf?z9ca6k') format('truetype'),
+    url('./fastturnaround.woff?z9ca6k') format('woff'),
+    url('./fastturnaround.svg?z9ca6k#fastturnaround') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'fastturnaround' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-hours:before {
+  content: "\e903";
+}
+.icon-NZmade:before {
+  content: "\e902";
+}
+.icon-cardprotection:before {
+  content: "\e901";
+}
+.icon-fastturnaround:before {
+  content: "\e900";
+}

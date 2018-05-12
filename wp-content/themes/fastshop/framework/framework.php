@@ -57,6 +57,7 @@ if ( !class_exists( 'Fastshop_framework' ) ) {
 		public function enqueue_scripts()
 		{
 			wp_enqueue_style( 'flaticon-css', get_theme_file_uri( '/assets/fonts/flaticon/flaticon.css' ), array(), '1.0' );
+            wp_enqueue_style( 'swicon-css', get_theme_file_uri( '/assets/fonts/swicon/swicon.css' ), array(), '1.0' );
 			wp_enqueue_style( '7-stroke-admin-css', get_theme_file_uri( '/assets/css/pe-icon-7-stroke.min.css' ), array(), '1.0' );
 			wp_enqueue_style( 'custom-admin-css', get_theme_file_uri( '/framework/assets/css/admin.css' ), array(), '1.0' );
 

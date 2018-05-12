@@ -201,6 +201,7 @@ if ( !class_exists( 'Fastshop_Functions' ) ) {
 			/*Load our main stylesheet.*/
 			wp_enqueue_style( 'fastshop-init-style', get_theme_file_uri( '/assets/css/init-style.css' ), array(), '1.0' );
 			wp_enqueue_style( 'flaticon-css', get_theme_file_uri( '/assets/fonts/flaticon/flaticon.css' ), array(), '1.0' );
+            wp_enqueue_style( 'swicon-css', get_theme_file_uri( '/assets/fonts/swicon/swicon.css' ), array(), '1.0' );
 			wp_enqueue_style( 'fastshop_custom_css', get_theme_file_uri( '/assets/css/style.min.css' ), array(), '1.0' );
 
 			wp_enqueue_style( 'fastshop-main-style', get_stylesheet_uri() );

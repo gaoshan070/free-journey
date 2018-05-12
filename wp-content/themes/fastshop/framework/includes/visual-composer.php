@@ -275,6 +275,13 @@ if ( !class_exists( 'Fastshop_Visual_Composer' ) ) {
 				array( 'flaticon-25bag' => '22' ),
 			);
 
+            $icons[ 'fastturnaround' ] = array(
+                array( 'icon-hours' => '01' ),
+                array( 'icon-NZmade' => '02' ),
+                array( 'icon-cardprotection' => '03' ),
+                array( 'icon-fastturnaround' => '04' ),
+            );
+
 			return $icons;
 		}
 
