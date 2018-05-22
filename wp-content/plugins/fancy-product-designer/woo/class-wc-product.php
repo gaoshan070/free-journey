@@ -30,7 +30,7 @@ if( !class_exists('FPD_WC_Product') ) {
 				add_action( 'woocommerce_before_add_to_cart_button', 'FPD_Frontend_Product::add_customize_button', 0 );
 			}
 			else {
-				add_action( 'woocommerce_after_add_to_cart_button', 'FPD_Frontend_Product::add_customize_button', 0 );
+//				add_action( 'woocommerce_after_add_to_cart_button', 'FPD_Frontend_Product::add_customize_button', 0 );
 			}
 
 			//add additional form fields to cart form

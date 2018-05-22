@@ -50,8 +50,8 @@ if( !class_exists('Fancy_Product_Designer') ) {
 
 	class Fancy_Product_Designer {
 
-		const VERSION = '3.5.1';
-		const FPD_VERSION = '4.41';
+		const VERSION = '3.5.2';
+		const FPD_VERSION = '4.47';
 		const CAPABILITY = "edit_fancy_product_desiger";
 		const LOCAL = false;
 
